@@ -1,0 +1,14 @@
+{
+  "name" : "marraigebureau",
+  "description" : "Web site for RLNMarriage lines.",
+ // "homepage" : "http://documentcloud.github.com/underscore/",
+ // "keywords" : ["util", "functional", "server", "client", "browser"],
+ // "author" : "Jeremy Ashkenas <jeremy@documentcloud.org>",
+  "contributors" : [],
+  "dependencies" : [
+    {}
+  ],
+//  "repository" : {"type": "git", "url": "git://github.com/documentcloud/underscore.git"},
+  "main" : "underscore.js",
+  "version" : "1.1.6"
+}
